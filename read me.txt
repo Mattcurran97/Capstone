@@ -1,0 +1,5 @@
+Matt Curran
+
+I was unable to get the data into the table. I had no problems with
+creating the database but when it came to getting the data into
+the database and creating the tables i had some problems.
